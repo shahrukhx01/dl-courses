@@ -1,6 +1,6 @@
 # :balloon: :tada: Deep Learning Drizzle :confetti_ball: :balloon:
 
-:books: [**"Read enough so you start developing intuitions and then trust your intuitions and go for it!"** ](https://www.deeplearning.ai/hodl-geoffrey-hinton/) :books:  ​<br/>  Prof. Geoffrey Hinton, University of Toronto
+:books: [**"Read enough so you start developing intuitions and then trust your intuitions and go for it!"** ](https://www.deeplearning.ai/hodl-geoffrey-hinton/) :books:  ​<br/> Prof. Geoffrey Hinton, University of Toronto
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
